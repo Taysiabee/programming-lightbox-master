@@ -5,6 +5,6 @@
 
 		- EX: <script src="dist/js/main.js"></script>
 
-## 2. Add proper Mark Up in HTML
+## 2. Add proper Mark-Up in HTML
 
 Make sure you have required meta tags and include proper indentation.  
