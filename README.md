@@ -7,4 +7,4 @@
 
 ## 2. Add proper Mark Up in HTML
 
-Make sure you have required meta tags and 
+Make sure you have required meta tags and include proper indentation.  
