@@ -18,8 +18,6 @@ lightboxLinks.addEventListener('click', function(event){
 
 
 
-
-
 	let whiteBox  = document.createElement("div")
 	whiteBox.classList.add('lightbox') //all styles from scss
 	document.body.appendChild(whiteBox); //whitebox in body
